@@ -1,0 +1,21 @@
+﻿<Application x:Class="OP2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:OP2"
+             xmlns:views="clr-namespace:OP2.MVVM.View"
+             xmlns:vsm="clr-namespace:OP2.MVVM.ViewModel">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type vsm:SettingsViewModel}">
+            <views:Settings/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vsm:MainWindowViewModel}">
+            <views:MainWindow/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vsm:HomeViewModel}">
+            <views:Home/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vsm:ConsoleViewModel}">
+            <views:Console/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "40j737q7a8f8KhJf0fsUytXGUGm7xUkV0ef4S0WWTOB6JnWtGgP88sTUBoGksB0jxjYsJ607GFKLExG+NZDwcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artyom\\source\\repos\\OP2\\OP2\\OP2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artyom\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Artyom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Artyom\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\Artyom\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
